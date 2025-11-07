@@ -1,4 +1,4 @@
-# comentario en linea - que no se ejecuta el codigo!!
+# comentario en linea - que no se ejecuta el codigo
 valor_moneda = 1515
 nombre = input("Ingrese su nombre: ")
 pesos = float(input("Ingrese cantidad de pesos: "))
